@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "comment.h": "c",
+        "stdlib.h": "c",
+        "post.h": "c",
+        "stdio.h": "c"
+    }
+}
